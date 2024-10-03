@@ -1,6 +1,7 @@
 # Driver Drowsiness Detection System
 
 ## Mini Project on “Driver Drowsiness Detection System” as the partial fulfillment for the requirement of Second Year of Engineering (4th Semester) in S.E. - Information Technology during the academic year 2020-2021.
+![image](https://github.com/user-attachments/assets/fd5ec994-9849-4215-875d-74b2aac52bef)
 
 
 ### Proposed System
